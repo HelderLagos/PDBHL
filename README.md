@@ -4,6 +4,8 @@ Extensão do Chrome que baixa imagens, GIFs e vídeos do Pinterest **com um cliq
 
 Passou o mouse no pin, apareceu a setinha. Clicou, baixou.
 
+Gostou? Deixa uma ⭐ no projeto e me segue no [@helder.lagos](https://instagram.com/helder.lagos).
+
 <p align="center">
   <img src="docs/feed-pinterest.png" alt="Feed do Pinterest com a extensão instalada" width="720">
 </p>
@@ -116,6 +118,20 @@ Algum pin específico que não baixa? Abra uma issue aqui no repositório com o 
 
 ---
 
+## Curtiu? Dá uma força
+
+O PDBHL é gratuito e vai continuar sendo. Se ele te poupou tempo, tem umas formas simples de retribuir:
+
+- ⭐ **Deixa uma estrela aqui no projeto.** É o botão **Star** no topo da página. Leva um segundo e ajuda o projeto a chegar em mais gente.
+- **Me segue no Instagram:** [@helder.lagos](https://instagram.com/helder.lagos). Lá eu falo de marca, conteúdo e as ferramentas que eu crio no caminho.
+- **Compartilha** com quem vive salvando referência no Pinterest.
+- **Manda sugestão ou bug** abrindo uma issue aqui no repositório.
+
+---
+
 ## Autor
 
-Criado por [Helder Lagos](https://helderlagos.com.br).
+Criado por **Helder Lagos**, estrategista de marca e criador do Content Branding.
+
+- Site: [helderlagos.com.br](https://helderlagos.com.br)
+- Instagram: [@helder.lagos](https://instagram.com/helder.lagos)
